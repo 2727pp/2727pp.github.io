@@ -1,0 +1,13 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/page": "app/page.js",
+  "/works/game-design/2114/page": "app/works/game-design/2114/page.js",
+  "/works/game-design/metroidvania/page": "app/works/game-design/metroidvania/page.js",
+  "/about/page": "app/about/page.js",
+  "/works/product-design/page": "app/works/product-design/page.js",
+  "/works/user-experience/page": "app/works/user-experience/page.js",
+  "/works/service-design/page": "app/works/service-design/page.js",
+  "/works/interaction-design/robot-companion/page": "app/works/interaction-design/robot-companion/page.js",
+  "/works/interaction-design/depression-screening/page": "app/works/interaction-design/depression-screening/page.js",
+  "/works/page": "app/works/page.js"
+}
